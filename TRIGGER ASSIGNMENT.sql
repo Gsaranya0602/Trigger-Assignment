@@ -1,4 +1,5 @@
-
+1.Write a program for Insert Trigger and explain.
+    
 use trigger_table;
 CREATE TABLE student (
     student_id INT AUTO_INCREMENT PRIMARY KEY,
